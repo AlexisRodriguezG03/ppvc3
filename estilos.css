@@ -1,0 +1,12 @@
+<style>
+         body { /* Se aplica directamente al elemento <body> */
+    color: gray;
+    background-color: chartreuse;
+    }
+        h2 { /* Se aplica directamente a todos los elementos de tipo <h2> */
+    color: navy;
+    }
+    /* Se aplica sólo en el elemento donde se use con el atributo `class` */
+        .clase-css-tag {
+    color: green;
+    }
